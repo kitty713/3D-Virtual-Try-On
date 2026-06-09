@@ -1,2 +1,3 @@
 # 3D-Virtual-Try-On
 This repository is the official implementation of the "3D Reconstruction of Human Body and Garment from Single Image for Separable and Animatable Virtual Try-On".
+<p align="center"><img src="Result/finalresult2.png" />
